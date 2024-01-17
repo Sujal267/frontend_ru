@@ -32,7 +32,7 @@ export default function Ok() {
                 <div className='bg-slate-200 w-auto h-auto m-3'>
                 I am truly sorry yaarr for any hurt or inconvenience I may have caused you. It was never 
                 my intention to upset you, and I feel regretful for the impact of my actions.
-                pls maf kar dena yaarr
+                pls maf kar de na yaarr
                 </div>
                 <br></br>
                 <div className='flex gap-4 justify-center'>
